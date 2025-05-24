@@ -1,3 +1,4 @@
+import React from "react";
 import { Header } from "../../components/header"
 import { ContactHero } from "../../components/contact-hero"
 import { ContactContent } from "../../components/contact-content"

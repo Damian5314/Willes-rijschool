@@ -1,3 +1,4 @@
+import React from "react";
 import { Header } from "../../components/header"
 import { FaqHero } from "../../components/faq-hero"
 import { FaqContent } from "../../components/faq-content"

@@ -1,3 +1,4 @@
+import React from "react";
 import { Header } from "../../components/header"
 import { PricingHero } from "../../components/pricing-hero"
 import { PricingPackages } from "../../components/pricing-packages"

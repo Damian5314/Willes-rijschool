@@ -1,3 +1,6 @@
+import React from "react";
+
+
 export function ContactHero() {
     return (
       <section className="relative h-[300px] flex items-center justify-center">
