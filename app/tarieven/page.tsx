@@ -1,6 +1,6 @@
-import { Header } from "@/components/header"
-import { PricingHero } from "@/components/pricing-hero"
-import { PricingPackages } from "@/components/pricing-packages"
+import { Header } from "../../components/header"
+import { PricingHero } from "../../components/pricing-hero"
+import { PricingPackages } from "../../components/pricing-packages"
 
 export default function TarievenPage() {
   return (
